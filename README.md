@@ -7,7 +7,7 @@ I'm passionate about analyzing and visualizing data to uncover insights that sup
 Currently, I'm building my skills in data analysis, machine learning, and AI, with the goal of becoming a well-rounded data scientist through hands-on projects and collaborative learning.
 
 ### 🤝 Let’s Connect & Learn Together
-If you're also navigating data science, AI, or software development — let’s grow together!  
+If you're also navigating data science, AI, or software development. Let’s grow together!  
 📫 Reach me here:
 - 💼 [LinkedIn](https://www.linkedin.com/in/krisjen-fraulein-hutagalung-aa3723239)
 - 📧 Email: **krisjenfraulein23@gmail.com**
