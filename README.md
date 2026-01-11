@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ijen!
+## Hi there 👋 I'm Krisjen!
 
 🎓 Undergraduate **Data Science** student at **UNESA**  
 🚀 Graduated from **Asah Dicoding** with Front-End & Back-End with AI learning path
