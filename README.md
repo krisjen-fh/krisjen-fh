@@ -1,7 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I'm Ijen!
 
-My name is Krisjen Fraulein Hutagalung, but you can call me Ijen. I'm an undergraduate data science student at UNESA and currently rolling on Asah Dicoding with learning path Front-End and Back-End with AI. 
+🎓 Undergraduate **Data Science** student at **UNESA**  
+🚀 Graduated from **Asah Dicoding** with Front-End & Back-End with AI learning path
 
-🤔 I’m looking for help with my journey to become a fully equipped data science. Please reach out to me if you feel the same thing as me. I'd love to have some companion. You can reach me through my [LinkedIn](www.linkedin.com/in/krisjen-fraulein-hutagalung-aa3723239) or my gmail krisjenfraulein23@gmail.com.
+I'm passionate about analyzing and visualizing data to uncover insights that support decision-making.
+Currently, I'm building my skills in data analysis, machine learning, and AI, with the goal of becoming a well-rounded data scientist through hands-on projects and collaborative learning.
 
-⚡ Ah, a little fun fact about me, i love to draw.
+### 🤝 Let’s Connect & Learn Together
+If you're also navigating data science, AI, or software development — let’s grow together!  
+📫 Reach me here:
+- 💼 [LinkedIn](https://www.linkedin.com/in/krisjen-fraulein-hutagalung-aa3723239)
+- 📧 Email: **krisjenfraulein23@gmail.com**
+
+### 🛠 Tech Interests
+- Data Analysis & Visualization  
+- Machine Learning & AI  
+- Front-End & Back-End Development  
+- Problem Solving with Data  
+
+### 🎨 Fun Fact
+I love to **draw**, _creativity helps me think better when working with data ✏️✨_
